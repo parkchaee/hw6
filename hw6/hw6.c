@@ -18,5 +18,7 @@ int main(void)
 	}
 	for (int i=0; i<6; i++)
 	    printf("%d", arr1[i]);
+	for (int j=0; j<6; j++)
+	    printf("%d",arr2[i]);
 	return 0;
 }
